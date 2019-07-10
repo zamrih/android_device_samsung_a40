@@ -1,4 +1,4 @@
-## Recovery Device Tree for the Samsung Galaxy S10
+## Recovery Device Tree for the Samsung Galaxy A40
 
 ## How-to compile it:
 
@@ -6,6 +6,5 @@ To build:
 
 ```sh
 . build/envsetup.sh
-lunch omni_beyond1lte-eng
+lunch omni_a40-eng
 make recoveryimage
-# android_device_samsung_a40
